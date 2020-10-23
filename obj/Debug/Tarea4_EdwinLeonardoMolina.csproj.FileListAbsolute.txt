@@ -1,0 +1,29 @@
+C:\Users\Leonardo\source\repos\Tarea4_EdwinLeonardoMolina\obj\Debug\Tarea4_EdwinLeonardoMolina.csprojAssemblyReference.cache
+C:\Users\Leonardo\source\repos\Tarea4_EdwinLeonardoMolina\obj\Debug\Tarea4_EdwinLeonardoMolina.Formularios.frmmenu.resources
+C:\Users\Leonardo\source\repos\Tarea4_EdwinLeonardoMolina\obj\Debug\Tarea4_EdwinLeonardoMolina.Properties.Resources.resources
+C:\Users\Leonardo\source\repos\Tarea4_EdwinLeonardoMolina\obj\Debug\Tarea4_EdwinLeonardoMolina.csproj.GenerateResource.cache
+C:\Users\Leonardo\source\repos\Tarea4_EdwinLeonardoMolina\obj\Debug\Tarea4_EdwinLeonardoMolina.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\Tarea4_EdwinLeonardoMolina\bin\Debug\Tarea4_EdwinLeonardoMolina.exe.config
+C:\Users\Leonardo\source\repos\Tarea4_EdwinLeonardoMolina\bin\Debug\Tarea4_EdwinLeonardoMolina.exe
+C:\Users\Leonardo\source\repos\Tarea4_EdwinLeonardoMolina\bin\Debug\Tarea4_EdwinLeonardoMolina.pdb
+C:\Users\Leonardo\source\repos\Tarea4_EdwinLeonardoMolina\obj\Debug\Tarea4_EdwinLeonardoMolina.exe
+C:\Users\Leonardo\source\repos\Tarea4_EdwinLeonardoMolina\obj\Debug\Tarea4_EdwinLeonardoMolina.pdb
+C:\Users\Leonardo\source\repos\Tarea4_EdwinLeonardoMolina\obj\Debug\Tarea4_EdwinLeonardoMolina.Formularios.frmsalario.resources
+C:\Users\Leonardo\source\repos\Tarea4_EdwinLeonardoMolina\obj\Debug\Tarea4_EdwinLeonardoMolina.Formularios.frmcuotadeprestamo.resources
+C:\Users\Leonardo\source\repos\Tarea4_EdwinLeonardoMolina\obj\Debug\Tarea4_EdwinLeonardoMolina.Formularios.frmsalarionuevodeunempleado.resources
+C:\Users\Leonardo\source\repos\Tarea4_EdwinLeonardoMolina\obj\Debug\Tarea4_EdwinLeonardoMolina.Formularios.frmproductocontado.resources
+D:\Universidad\Programacion 3\Tarea Semana 4\Tarea4_EdwinLeonardoMolina\bin\Debug\Tarea4_EdwinLeonardoMolina.exe.config
+D:\Universidad\Programacion 3\Tarea Semana 4\Tarea4_EdwinLeonardoMolina\bin\Debug\Tarea4_EdwinLeonardoMolina.exe
+D:\Universidad\Programacion 3\Tarea Semana 4\Tarea4_EdwinLeonardoMolina\bin\Debug\Tarea4_EdwinLeonardoMolina.pdb
+D:\Universidad\Programacion 3\Tarea Semana 4\Tarea4_EdwinLeonardoMolina\obj\Debug\Tarea4_EdwinLeonardoMolina.csprojAssemblyReference.cache
+D:\Universidad\Programacion 3\Tarea Semana 4\Tarea4_EdwinLeonardoMolina\obj\Debug\Tarea4_EdwinLeonardoMolina.Formularios.frmcuotadeprestamo.resources
+D:\Universidad\Programacion 3\Tarea Semana 4\Tarea4_EdwinLeonardoMolina\obj\Debug\Tarea4_EdwinLeonardoMolina.Formularios.frmmenu.resources
+D:\Universidad\Programacion 3\Tarea Semana 4\Tarea4_EdwinLeonardoMolina\obj\Debug\Tarea4_EdwinLeonardoMolina.Formularios.frmproductocontado.resources
+D:\Universidad\Programacion 3\Tarea Semana 4\Tarea4_EdwinLeonardoMolina\obj\Debug\Tarea4_EdwinLeonardoMolina.Formularios.frmsalario.resources
+D:\Universidad\Programacion 3\Tarea Semana 4\Tarea4_EdwinLeonardoMolina\obj\Debug\Tarea4_EdwinLeonardoMolina.Formularios.frmsalarionuevodeunempleado.resources
+D:\Universidad\Programacion 3\Tarea Semana 4\Tarea4_EdwinLeonardoMolina\obj\Debug\Tarea4_EdwinLeonardoMolina.Properties.Resources.resources
+D:\Universidad\Programacion 3\Tarea Semana 4\Tarea4_EdwinLeonardoMolina\obj\Debug\Tarea4_EdwinLeonardoMolina.csproj.GenerateResource.cache
+D:\Universidad\Programacion 3\Tarea Semana 4\Tarea4_EdwinLeonardoMolina\obj\Debug\Tarea4_EdwinLeonardoMolina.csproj.CoreCompileInputs.cache
+D:\Universidad\Programacion 3\Tarea Semana 4\Tarea4_EdwinLeonardoMolina\obj\Debug\Tarea4_EdwinLeonardoMolina.exe
+D:\Universidad\Programacion 3\Tarea Semana 4\Tarea4_EdwinLeonardoMolina\obj\Debug\Tarea4_EdwinLeonardoMolina.pdb
+D:\Universidad\Programacion 3\Tarea Semana 4\Tarea4_EdwinLeonardoMolina\obj\Debug\Tarea4_EdwinLeonardoMolina.Formularios.frmtotalventas.resources
